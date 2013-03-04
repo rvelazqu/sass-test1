@@ -1,13 +1,23 @@
+@import 'compass';
+
+.funky {
+  font: {
+    family: fantasy;
+    size: 5em;
+    weight: bold;
+  }
+}
+
 .fakeshadow {
   border: {
     style: solid;
     left: {
-      width: 40px;
-      color: #666666;
+      width: 200px;
+      color: #00FF00;
     }
     right: {
-      width: 20px;
-      color: #cccccc;
+      width: 200px;
+      color: #FF0000;
     }
-   }
+    }
 }

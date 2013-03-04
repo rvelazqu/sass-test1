@@ -1,8 +1,15 @@
-/* line 1, ../sass/test1.scss */
+/* line 3, ../sass/test1.scss */
+.funky {
+  font-family: fantasy;
+  font-size: 5em;
+  font-weight: bold;
+}
+
+/* line 11, ../sass/test1.scss */
 .fakeshadow {
   border-style: solid;
-  border-left-width: 40px;
-  border-left-color: #666666;
-  border-right-width: 20px;
-  border-right-color: #cccccc;
+  border-left-width: 200px;
+  border-left-color: #00FF00;
+  border-right-width: 200px;
+  border-right-color: #FF0000;
 }
